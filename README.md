@@ -1,19 +1,13 @@
-# 🚀 Portafolio de Proyectos Python - Paula Andrea
+### 📸 Evidencias de Funcionamiento
 
-Colección de herramientas y ejercicios de lógica desarrollados en Python.
+#### 1. Gestión de Mercado y Facturación
+![Factura](1_mercado.png)
 
----
+#### 2. Juego: Adivina el número
+![Juego](2_juego.png)
 
-## 📸 Evidencias de Funcionamiento
+#### 3. Calculadora de IMC
+![IMC](3_imc.png)
 
-### 🛒 1. Gestión de Mercado y Facturación
-![Factura](factura_mercado.txt)
-
-### 🎮 2. Juego: Adivina el número
-![Juego](adivina el numero.txt)
-
-### ⚖️ 3. Calculadora de IMC
-![IMC](calculadora IMC.txt)
-
-### 📝 4. Lista de Tareas
-![Tareas](lista de tareas .txt)
+#### 4. Lista de Tareas
+![Tareas](4_tareas.png)

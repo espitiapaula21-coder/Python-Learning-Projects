@@ -4,10 +4,10 @@
 ![Factura](factura_mercado.png)
 
 ### 🎮 2. Juego: Adivina el número
-![Juego](adivina el numero.png)
+![Juego](adivina%20el%20numero.png)
 
 ### ⚖️ 3. Calculadora de IMC
-![IMC](calculadora IMC.png)
+![IMC](calculadora%20IMC.png)
 
 ### 📝 4. Lista de Tareas
-![Tareas](lista de tareas .png)
+![Tareas](lista%20de%20tareas%20.png)

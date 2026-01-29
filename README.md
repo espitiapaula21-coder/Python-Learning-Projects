@@ -1,13 +1,15 @@
+# 🚀 Portafolio de Proyectos Python - Paula Andrea
+
 ## 📸 Evidencias de Funcionamiento
 
 ### 🛒 1. Gestión de Mercado y Facturación
-![Factura](factura_mercado.png)
+![Factura](factura.png)
 
 ### 🎮 2. Juego: Adivina el número
-![Juego](adivina%20el%20numero.png)
+![Juego](juego.png)
 
 ### ⚖️ 3. Calculadora de IMC
-![IMC](calculadora%20IMC.png)
+![IMC](imc.png)
 
 ### 📝 4. Lista de Tareas
-![Tareas](lista%20de%20tareas%20.png)
+![Tareas](tareas.png)

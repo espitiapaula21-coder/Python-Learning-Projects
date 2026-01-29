@@ -1,9 +1,3 @@
-# 🚀 Portafolio de Proyectos Python - Paula Andrea
-
-Colección de herramientas y ejercicios de lógica desarrollados en Python.
-
----
-
 ## 📸 Evidencias de Funcionamiento
 
 ### 🛒 1. Gestión de Mercado y Facturación

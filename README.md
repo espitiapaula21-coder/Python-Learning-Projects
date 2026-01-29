@@ -8,3 +8,5 @@
 ![Juego](juego.png)
 ### ⚖️ 3. Calculadora de IMC
 ![IMC](imc.png)
+### 📝 4. Lista de Tareas
+![Tareas](lista%20de%20tareas%20.png)

@@ -1,13 +1,13 @@
-### 📸 Evidencias de Funcionamiento
+## 📸 Evidencias de Funcionamiento
 
-#### 1. Gestión de Mercado y Facturación
-![Factura](1_mercado.png)
+### 🛒 1. Gestión de Mercado y Facturación
+![Factura](factura_mercado.png)
 
-#### 2. Juego: Adivina el número
-![Juego](2_juego.png)
+### 🎮 2. Juego: Adivina el número
+![Juego](adivina el numero.png)
 
-#### 3. Calculadora de IMC
-![IMC](3_imc.png)
+### ⚖️ 3. Calculadora de IMC
+![IMC](calculadora IMC.png)
 
-#### 4. Lista de Tareas
-![Tareas](4_tareas.png)
+### 📝 4. Lista de Tareas
+![Tareas](lista de tareas .png)

@@ -1,13 +1,9 @@
-# 🚀 Portafolio de Proyectos Python - Paula Andrea
-
-Colección de herramientas desarrolladas para demostrar habilidades en lógica de programación.
-
----
+# 🚀 Mis Proyectos de Python - Paula Andrea
 
 ## 📸 Evidencias de Funcionamiento
 
-### 🛒 1. Gestión de Mercado y Facturación
-![Factura](mercado.png)
+### 🛒 1. Facturación de Mercado
+![Mercado](mercado.png)
 
 ### 🎮 2. Juego: Adivina el número
 ![Juego](juego.png)

@@ -9,4 +9,4 @@
 ### ⚖️ 3. Calculadora de IMC
 ![IMC](imc.png)
 ### 📝 4. Lista de Tareas
-<img src="lista de tareas .png" width="500">
+![Tareas](tareas.png)

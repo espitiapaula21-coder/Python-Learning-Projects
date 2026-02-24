@@ -22,9 +22,5 @@ Calcula el índice de masa corporal basándose en el peso y altura, clasificando
 Una herramienta funcional para gestionar pendientes permitiendo agregar, ver y borrar tareas de una lista.
 ![Tareas](tareas.png)
 
-# Mi Gestor de Tareas Pro 🐍
-
-Este es un ejercicio de nivel intermedio donde uso funciones, bucles y manejo de errores.
-
 ### 📸 Prueba de funcionamiento:
-![Resultado del programa](./resultado.png)
+![Resultado](./resultado del gestor.png)

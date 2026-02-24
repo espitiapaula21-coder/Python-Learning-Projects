@@ -23,4 +23,4 @@ Una herramienta funcional para gestionar pendientes permitiendo agregar, ver y b
 ![Tareas](tareas.png)
 
 ### 📸 Prueba de funcionamiento:
-![Resultado](./resultado del gestor.png)
+![Resultado](./resultado.png)

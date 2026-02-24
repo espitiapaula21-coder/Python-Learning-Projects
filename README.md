@@ -21,3 +21,12 @@ Calcula el índice de masa corporal basándose en el peso y altura, clasificando
 ### 📝 4. Lista de Tareas
 Una herramienta funcional para gestionar pendientes permitiendo agregar, ver y borrar tareas de una lista.
 ![Tareas](tareas.png)
+
+# Mis Ejercicios de Programación en Python 🐍
+
+Este es mi gestor de tareas nivel pro. Utiliza funciones, bucles, manejo de errores y listas.
+
+### 🚀 Cómo funciona:
+Aquí puedes ver una prueba de que el código corre perfectamente y permite borrar tareas:
+
+![Prueba de funcionamiento](./resultado_gestor.png)
